@@ -2,7 +2,7 @@
 EFI的OC版本为0.83，适用于Ventura beta3网卡AX200，配置一切完美，HDMI接口已定制
 
 
-其他版本需要更换Wi-Fi和蓝牙驱动,以后应该会更新EFI,有问题请发到syuyx@foxmail.com或者GitHub的问题里，有空我都会看的。
+其他版本需要更换Wi-Fi和蓝牙驱动,以后应该会更新EFI,有问题请发到syuyx@foxmail.com或者GitHub的问题里，有空我都会看的
 
 
 最后感谢国光酱，AlphaGHX，乌龙蜜桃来一打，PCbeta和所有黑果大佬，祝你安装成功！
