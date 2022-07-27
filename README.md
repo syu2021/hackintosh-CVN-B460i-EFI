@@ -6,8 +6,8 @@ EFI的OC版本为0.83，适用于Ventura beta3网卡AX200，配置一切完美�
 
 
 最后感谢国光酱，AlphaGHX，乌龙蜜桃来一打，PCbeta和所有黑果大佬，祝你安装成功！
-![image](https://user-images.githubusercontent.com/88355063/181164355-e4728a2f-9a6b-4e04-9588-d76b91b5db9d.png)
-![image](https://user-images.githubusercontent.com/88355063/181164373-b7dcd0d6-3af4-4f8d-b039-2dd7fecd4c36.png)
-![image](https://user-images.githubusercontent.com/88355063/181159586-62534951-3fb8-4f1e-99f3-95d2c580a0ad.png)
-![image](https://user-images.githubu👍sercontent.com/88355063/181159601-42d96c81-15b8-4dc3-b3e0-defaeb64a3fd.png)
-![image](https://user-images.githubusercontent.com/88355063/181159607-0b3d0283-b6ed-4c8b-82ee-adfea1e49e6c.png)
+![image](https://user-images.githubusercontent.com/88355063/181165414-1ff6c5dc-ae42-4741-8930-befdde7be531.png)
+![image](https://user-images.githubusercontent.com/88355063/181165423-008a52d1-8e88-4a8c-b7f9-55013dba4437.png)
+![image](https://user-images.githubusercontent.com/88355063/181165432-851542a3-c2a0-4334-80b7-40ffd5a1486e.png)
+![image](https://user-images.githubusercontent.com/88355063/181165444-c5226244-c94c-4ffc-aa9a-cb84eb1361fd.png)
+![image](https://user-images.githubusercontent.com/88355063/181165449-30eb5938-999f-4fbe-9cf1-4bb40e5a4c41.png)
