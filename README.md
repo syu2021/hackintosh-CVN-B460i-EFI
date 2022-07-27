@@ -1,7 +1,7 @@
 # hackintosh--CVN-B460I-EFI
 EFI的OC版本为0.83，适用于Ventura beta3网卡AX200，配置一切完美，HDMI接口已定制
 安装前
-开启：1.设置为IGX
+                             开启：1.设置为IGX
      2.SATA设置➡️AHCI
      3.USB➡️XHCI交接
 关闭：
