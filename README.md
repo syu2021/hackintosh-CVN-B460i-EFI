@@ -8,7 +8,10 @@ EFI的OC版本为0.83，适用于Ventura beta4网卡AX200，配置一切完美�
 https://www.reddit.com/r/hackintosh/comments/we72ru/if_you_are_encountering_sleep_issue_after/
 
 
-终端：1.pmset -g sched
+终端：
+     
+     
+     1.pmset -g sched
 
 
      2.sudo pmset schedule cancelall
