@@ -22,7 +22,6 @@ beta4睡眠问题修复方法-打开终端（分别输入如下）：
 
 最后感谢国光酱，AlphaGHX，乌龙蜜桃来一打，PCbeta和所有黑果大佬，祝你安装成功！
 ![image](https://user-images.githubusercontent.com/88355063/181165414-1ff6c5dc-ae42-4741-8930-befdde7be531.png)
-![image](https://user-images.githubusercontent.com/88355063/181165423-008a52d1-8e88-4a8c-b7f9-55013dba4437.png)
 ![image](https://user-images.githubusercontent.com/88355063/181165432-851542a3-c2a0-4334-80b7-40ffd5a1486e.png)
 ![image](https://user-images.githubusercontent.com/88355063/181165444-c5226244-c94c-4ffc-aa9a-cb84eb1361fd.png)
 ![image](https://user-images.githubusercontent.com/88355063/181165449-30eb5938-999f-4fbe-9cf1-4bb40e5a4c41.png)
