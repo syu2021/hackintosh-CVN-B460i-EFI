@@ -8,13 +8,16 @@ EFI的OC版本为0.83，适用于Ventura beta4网卡AX200，配置一切完美�
 https://www.reddit.com/r/hackintosh/comments/we72ru/if_you_are_encountering_sleep_issue_after/
 
 
-beta4睡眠问题修复方法-睡眠前，打开终端（分别输入如下）：
-     
-     
-     1.pmset -g sched
+beta4睡眠问题修复或睡眠失败关机不断电问题修复方法
 
 
-     2.sudo pmset schedule cancelall
+打开终端分别执行：
+     
+     
+     pmset -g sched
+
+
+     sudo pmset schedule cancelall
 
 
 以后应该会更新EFI,有问题请发到syuyx@foxmail.com或者GitHub的问题里
