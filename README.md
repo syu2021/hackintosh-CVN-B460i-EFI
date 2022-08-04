@@ -17,7 +17,7 @@ beta4睡眠问题修复或睡眠失败、关机不断电问题修复方法
      sudo pmset schedule cancelall
 
 
-以后应该会更新EFI,有问题请发到syuyx@foxmail.com或者GitHub的问题里
+之后应该还会持续更新EFI,有问题请发到syuyx@foxmail.com或者GitHub的问题里
 
 
 最后感谢国光酱，AlphaGHX，乌龙蜜桃来一打，PCbeta和所有黑果大佬，祝你安装成功！
