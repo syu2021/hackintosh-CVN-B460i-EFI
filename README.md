@@ -21,7 +21,8 @@ beta4睡眠问题或睡眠失败、关机不断电问题修复方法
 
 
 最后感谢国光酱，AlphaGHX，乌龙蜜桃来一打，PCbeta和所有黑果大佬，祝你安装成功！
-![image](https://user-images.githubusercontent.com/88355063/181165414-1ff6c5dc-ae42-4741-8930-befdde7be531.png)
+![image](https://user-images.githubusercontent.com/88355063/183789396-2b05e942-e574-4112-8e8b-456df908f7ce.png)
+![image](https://user-images.githubusercontent.com/88355063/183789418-746e52f8-32fa-4845-8300-db1527993b74.png)
 ![image](https://user-images.githubusercontent.com/88355063/182590659-e492d306-4daa-412d-bce3-b8dafded9312.png)
 ![image](https://user-images.githubusercontent.com/88355063/181165444-c5226244-c94c-4ffc-aa9a-cb84eb1361fd.png)
 ![image](https://user-images.githubusercontent.com/88355063/181165449-30eb5938-999f-4fbe-9cf1-4bb40e5a4c41.png)
