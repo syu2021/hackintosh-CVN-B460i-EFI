@@ -5,6 +5,9 @@ EFI的OC版本为0.84，适用于Ventura beta5网卡AX200，配置一切完美�
 安装完系统请自行添加三码，USB有2个口为机箱（酷鱼T40）的，其他版本需要更换Wi-Fi和蓝牙驱动
 
 
+下载地址：https://github.com/syu2021/hackintosh-CVN-B460i-EFI/releases
+
+
 beta4睡眠问题或睡眠失败、关机不断电问题（与USB定制有关）修复方法
 
 
@@ -14,10 +17,7 @@ beta4睡眠问题或睡眠失败、关机不断电问题（与USB定制有关）
      pmset -g sched
      
 
-
-
      sudo pmset schedule cancelall
-     
      
      
 最新发现beta5关机不断电可以通过强制关机后再开机再次关机解决
