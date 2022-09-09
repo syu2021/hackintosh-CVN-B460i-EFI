@@ -20,7 +20,7 @@ beta4睡眠问题或睡眠失败、关机不断电问题（与USB定制有关）
      sudo pmset schedule cancelall
      
      
-最新发现beta5关机不断电可以通过强制关机后再开机再次关机解决
+最新发现Ventura出现关机不断电可以通过强制关机后再开机再次关机解决
 
 
 之后应该还会持续更新EFI,有问题请发到syuyx@foxmail.com或者GitHub的lssues里
