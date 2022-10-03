@@ -1,5 +1,7 @@
 # hackintosh-CVN-B460I-EFI
-EFI的OC版本为0.85开发版，适用于Ventura beta6，网卡AX200，配置一切完美，HDMI接口已定制（数据在下面图片或Releases）
+EFI的OC版本为0.85开发版，适用于Ventura beta6，网卡AX200 
+
+配置一切完美，HDMI接口已定制（数据在下面图片或Releases）
 
 2022.10.2测试Ventura beta8Wi-Fi有问题 
 
