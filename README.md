@@ -14,7 +14,9 @@ EFI的OC版本为0.85开发版，适用于Ventura beta6，网卡AX200
 beta4睡眠问题或睡眠失败、关机不断电问题（与USB定制有关）修复方法
 
 打开终端分别执行：  
-     pmset -g sched    
+     pmset -g sched
+     
+     
      sudo pmset schedule cancelall
 
 最新发现Ventura出现关机不断电可以通过强制关机后再开机再次关机解决
