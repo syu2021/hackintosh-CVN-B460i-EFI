@@ -3,15 +3,15 @@ EFI请看Releases中介绍，适用于Ventura及以下任何macOS版本，网卡
 
 配置一切完美，HDMI接口已定制（数据在下面图片或Releases）
 
+安装完系统请自行添加三码，USB有2个口为机箱（酷鱼T40）的，其他版本需要更换Wi-Fi和蓝牙驱动
+
+下载地址：https://github.com/syu2021/hackintosh-CVN-B460i-EFI/releases
+
 2022.10.29WiFi已正常
 
 2022.10.2测试Ventura beta8Wi-Fi有问题 
 
 目前其他未测试，已替换EFI中Wi-Fi驱动使用macOS Monterey 12.6正常登陆不了store请使用魔法
-
-安装完系统请自行添加三码，USB有2个口为机箱（酷鱼T40）的，其他版本需要更换Wi-Fi和蓝牙驱动
-
-下载地址：https://github.com/syu2021/hackintosh-CVN-B460i-EFI/releases
 
 beta4或其他版本睡眠问题或睡眠失败、关机不断电问题（与USB定制有关）修复方法
 
