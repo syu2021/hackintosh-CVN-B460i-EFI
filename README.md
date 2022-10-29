@@ -1,7 +1,9 @@
 # hackintosh-CVN-B460I-EFI
-EFI的OC版本为0.85开发版，适用于Ventura beta6，网卡AX200 
+EFI请看Releases中介绍，适用于Ventura及以下任何macOS版本，网卡为AX200 
 
 配置一切完美，HDMI接口已定制（数据在下面图片或Releases）
+
+2022.10.29WiFi已正常
 
 2022.10.2测试Ventura beta8Wi-Fi有问题 
 
@@ -11,7 +13,7 @@ EFI的OC版本为0.85开发版，适用于Ventura beta6，网卡AX200
 
 下载地址：https://github.com/syu2021/hackintosh-CVN-B460i-EFI/releases
 
-beta4睡眠问题或睡眠失败、关机不断电问题（与USB定制有关）修复方法
+beta4或其他版本睡眠问题或睡眠失败、关机不断电问题（与USB定制有关）修复方法
 
 打开终端分别执行：
 
