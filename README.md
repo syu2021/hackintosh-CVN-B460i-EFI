@@ -30,7 +30,7 @@ EFI请看Releases中介绍，适用于Ventura及以下任何macOS版本，网卡
      
 之后应该还会持续更新EFI,有问题请发到syuyx@foxmail.com或者GitHub的lssues里
 最后感谢国光酱，AlphaGHX，乌龙蜜桃来一打，PCbeta和所有黑果大佬，祝你安装成功！
-![image](https://user-images.githubusercontent.com/88355063/182590659-e492d306-4daa-412d-bce3-b8dafded9312.png)
+![image](https://user-images.githubusercontent.com/88355063/204077857-e8dd2118-7b72-4ee9-beba-1783d30fe983.png)
 ![image](https://user-images.githubusercontent.com/88355063/181165444-c5226244-c94c-4ffc-aa9a-cb84eb1361fd.png)
 ![image](https://user-images.githubusercontent.com/88355063/181165449-30eb5938-999f-4fbe-9cf1-4bb40e5a4c41.png)
 ![image](https://user-images.githubusercontent.com/88355063/182870389-b6e135e5-2aa9-417b-b3b7-3f17852a5d2d.png)
