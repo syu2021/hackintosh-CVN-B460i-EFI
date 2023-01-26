@@ -7,6 +7,9 @@ EFI请看Releases中介绍，适用于Ventura及以下任何macOS版本，网卡
 
 下载地址：https://github.com/syu2021/hackintosh-CVN-B460i-EFI/releases
 
+目前已知问题：睡眠唤醒后部分软件打开卡住
+
+
 日志（时间从小到大）
 
 1.beta4或其他版本睡眠问题或睡眠失败、关机不断电问题（与USB定制有关）修复方法
