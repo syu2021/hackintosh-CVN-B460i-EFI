@@ -57,17 +57,11 @@ Monterey及以上使用IntelBluetoothFirmware+BlueToolFixup+IntelBTPatcher
 
 i5和i7设置imac20.1，i9设置20.2
 
-![Xnip2023-02-19_23-43-59](/Users/syu/Desktop/Xnip2023-02-19_23-43-59.png)
-
-![Xnip2023-02-19_23-43-13](/Users/syu/Desktop/Xnip2023-02-19_23-43-13.png)
-
-![Xnip2023-02-19_23-43-42](/Users/syu/Desktop/Xnip2023-02-19_23-43-42.png)
-
-![181165449-30eb5938-999f-4fbe-9cf1-4bb40e5a4c41](/Users/syu/Desktop/181165449-30eb5938-999f-4fbe-9cf1-4bb40e5a4c41.png)
-
-![182870389-b6e135e5-2aa9-417b-b3b7-3f17852a5d2d](/Users/syu/Desktop/182870389-b6e135e5-2aa9-417b-b3b7-3f17852a5d2d.png)
-
-
+![Xnip2023-02-19_23-43-59](https://user-images.githubusercontent.com/88355063/219959785-78629b11-0d32-4e58-85c0-06541ce406be.png)
+![Xnip2023-02-19_23-43-13](https://user-images.githubusercontent.com/88355063/219959804-019fc58c-fe54-448d-97af-01e5daf77dc2.png)
+![Xnip2023-02-19_23-43-42](https://user-images.githubusercontent.com/88355063/219959829-521689b3-0d62-4b5c-a69a-23fb71b30cca.png)
+![181165449-30eb5938-999f-4fbe-9cf![182870389-b6e135e5-2aa9-417b-b3b7-3f17852a5d2d](https://user-images.githubusercontent.com/88355063/219959843-b4b995a5-b547-4326-bcc3-fd93dc530bbf.png)
+1-4bb40e5a4c41](https://user-images.githubusercontent.com/88355063/219959834-0c6400e1-3e0b-4e19-ac95-6e3b6a5de31f.png)
 
 ### 日志（时间从小到大）
 
