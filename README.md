@@ -1,6 +1,6 @@
 ### **1.目前机子配置**
 
-i9-10900TES（QTB0）
+i9-10900TES（QTB0）Mac下功耗为62W，Windows仅为35W
 
 光威DDR4 白色马甲 3000Mhz 8GBx2
 
