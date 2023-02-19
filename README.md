@@ -20,9 +20,9 @@ i9-10900TES（QTB0）
 
 ##### ①高级
 
-CPU设置-C状态**(关闭)**
+CPU设置-C状态-**(关闭)**
 
-CPU设置-cfg lock**(关闭)**
+CPU设置-cfg lock-**(关闭)**
 
 SATA设置-SATA模式选择-**AHCI**
 
