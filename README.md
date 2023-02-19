@@ -42,7 +42,6 @@ BIOS写保护-**开启**
 
 ![Xnip2023-02-19_23-43-59](https://user-images.githubusercontent.com/88355063/219958801-1679f199-8118-4f18-b0ee-28a9bdf96c07.png)
 ![Xnip2023-02-19_23-43-13](https://user-images.githubusercontent.com/88355063/219958806-ea8dccb8-67f7-4dfc-b9bc-9d03ecb18a55.png)
-![Xnip2023-02-19_23-43-42](https://us![Xnip2023-02-19_23-44-12](https://user-images.githubusercontent.com/88355063/219958819-b94f9fa4-c7f0-423e-9981-d86d176d1469.png)
 ![Xnip2023-02-19_23-43-42](https://user-images.githubusercontent.com/88355063/219958913-72d0292b-08b0-492f-951a-6b87c97822e9.png)
 ![181165449-30eb5938-999f-4fbe-9cf1-4bb40e5a4c41](https://user-images.githubusercontent.com/88355063/219958823-85f2edd9-d713-4545-9fd9-9955b2a1354d.png)
 ![182870389-b6e135e5-2aa9-417b-b3b7-3f17852a5d2d](https://user-images.githubusercontent.com/88355063/219958825-82a5c9e3-ddfd-434e-b5cf-ef591338f952.png)
