@@ -38,7 +38,7 @@ BIOS写保护-**开启**
 
 ### 3.USB定制
 
-保留XHCI-unsupported.kext和开启XhciPortLimit，在hackintool定制，定制时要删除原有USBports，定制完关闭XhciPortLimit和添加USBports
+保留XHCI-unsupported.kext和开启XhciPortLimit，在hackintool定制，定制时要删除原有USBports，定制完关闭XhciPortLimit和添加USBports（目前仅在B460系列测试成功）
 
 ### 4.EFI说明
 
