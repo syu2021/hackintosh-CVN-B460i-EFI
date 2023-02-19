@@ -65,7 +65,7 @@ i5和i7设置imac20.1，i9设置20.2
 ![181165449-30eb5938-999f-4fbe-9cf![182870389-b6e135e5-2aa9-417b-b3b7-3f17852a5d2d](https://user-images.githubusercontent.com/88355063/219959843-b4b995a5-b547-4326-bcc3-fd93dc530bbf.png)
 1-4bb40e5a4c41](https://user-images.githubusercontent.com/88355063/219959834-0c6400e1-3e0b-4e19-ac95-6e3b6a5de31f.png)
 
-### 日志（时间从小到大）
+### 日志
 
 1.beta4或其他版本睡眠问题或睡眠失败、关机不断电问题（与USB定制有关）修复方法
 
