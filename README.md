@@ -44,6 +44,8 @@ BIOS写保护-**开启**
 
 基本完美，定制了HDMI接口，USB定制完成，OC版本和kext保持最新
 
+安装进入系统后请重新生成三码，再登录
+
 出现WiFi和蓝牙问题请替换kext解决
 
 替换网卡软件：ProperTree 、OpenCore Configurator 、OCAuxiliaryTools（个人推荐后两者）
