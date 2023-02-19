@@ -29,8 +29,14 @@ EFI请看Releases中介绍，适用于Ventura及以下任何macOS版本，网卡
 3.macOS Monterey 12.6或其他版本登陆不了Store请使用魔法
 
 
-4.定制USB时发现主板右下角USB3.0可兼容2.0，有点奇怪，避免一些问题，直接删除了USB2.0端口（另附未修改前的USBkext）     
-     
+4.定制USB时发现主板右下角USB3.0可兼容2.0，有点奇怪，避免一些问题，直接删除了USB2.0端口（另附未修改前的USBkext）
+
+5.解决睡眠唤醒后打开部分软件卡住问题
+
+1.BIOS开启写保护
+
+2.定制问题（在上面）
+
 之后应该还会持续更新EFI,有问题请发到syuyx@foxmail.com或者GitHub的lssues里
 最后感谢国光酱，AlphaGHX，乌龙蜜桃来一打，PCbeta和所有黑果大佬，祝你安装成功！
 ![image](https://user-images.githubusercontent.com/88355063/204077857-e8dd2118-7b72-4ee9-beba-1783d30fe983.png)
