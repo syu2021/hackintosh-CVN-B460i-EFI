@@ -64,6 +64,7 @@ i5和i7设置imac20.1，i9设置20.2
 ![Xnip2023-02-19_23-43-42](https://user-images.githubusercontent.com/88355063/219959829-521689b3-0d62-4b5c-a69a-23fb71b30cca.png)
 ![181165449-30eb5938-999f-4fbe-9cf![182870389-b6e135e5-2aa9-417b-b3b7-3f17852a5d2d](https://user-images.githubusercontent.com/88355063/219959843-b4b995a5-b547-4326-bcc3-fd93dc530bbf.png)
 1-4bb40e5a4c41](https://user-images.githubusercontent.com/88355063/219959834-0c6400e1-3e0b-4e19-ac95-6e3b6a5de31f.png)
+![Xnip2023-02-20_08-34-59](https://user-images.githubusercontent.com/88355063/219985301-2149ef87-28fc-4c76-800e-cd4a410ab587.png)
 
 ### 日志
 
