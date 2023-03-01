@@ -91,6 +91,8 @@ i5和i7设置imac20.1，i9设置20.2
 
 ②定制问题（在上面）
 
+6.睡眠唤醒后出现掉帧卡顿现象（ventura13.2.1）
+
 ### 最后
 
 之后应该还会持续更新EFI,有问题请发到[syuyx@foxmail.com](mailto:syuyx@foxmail.com)或者GitHub的lssues里 
